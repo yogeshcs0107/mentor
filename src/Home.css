@@ -1,0 +1,40 @@
+.home-container {
+    background: #fff;
+    height:100%;
+}
+.jumbotron {
+    border-radius: 0 !important;
+    height:50vh;
+}
+.jumbo-text {
+    margin:0px auto;
+}
+.font-27 {
+    font-size: 27px;
+}
+footer {
+    background: #efefef;
+}
+.funnel {
+    background: #5fcf80;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 33%;
+    border-bottom-right-radius: 33%;
+    height: 24vh;
+    text-align: center;
+    line-height: 5rem;
+    width: 85px;
+}
+.quote, .quote:hover {
+    background: #5fcf80;
+    border:none;
+    color:#fff;
+}
+.name, .heading {
+    color: #5fcf80 !important;
+    font-weight: bold; 
+}
+.people {
+    background: #fff;
+    background-image: url('./people.png') no-repeat center;
+}
